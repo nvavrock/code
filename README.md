@@ -10,4 +10,4 @@ Folder | Description
 
 > Note: More to come. Please stay tuned!
 
-** Subscribe to my Newsletter:** https://dataprofessor.beehiiv.com/
+**Subscribe to my Newsletter:** https://dataprofessor.beehiiv.com/
