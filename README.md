@@ -10,4 +10,4 @@ Folder | Description
 
 > Note: More to come. Please stay tuned!
 
-<iframe src="https://embeds.beehiiv.com/86bc34d8-cba0-46bf-8a88-930adb8ecbb8?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe>
+** Subscribe to my Newsletter:** https://dataprofessor.beehiiv.com/
